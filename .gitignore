@@ -1,0 +1,22 @@
+# Env
+venv
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# Assignment 1 generated
+assignment1/cs231n/datasets/cifar-10-batches-py
+
+# Assignment 2 generated
+assignment2/cs231n/build
+assignment2/cs231n/im2col_cython.cpython*
+assignment2/cs231n/datasets/cifar-10-batches-py
+
+# Assignment 3 generated
+assignment3/cs231n/datasets/coco_captioning
+assignment3/cs231n/datasets/MNIST_data/
+assignment3/cs231n/datasets/imagenet_val_25.npz
+assignment3/data
+assignment3/pretrained_model
+assignment3/results
